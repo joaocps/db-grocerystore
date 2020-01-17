@@ -1,0 +1,40 @@
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\bin\Debug\GroceryApp.exe.config
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\bin\Debug\GroceryApp.exe
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\bin\Debug\GroceryApp.pdb
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarFornecedor.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarProduto.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarFuncionario.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarCliente.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaFornecedores.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaIvas.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaProdutos.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaFuncionarios.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaClientes.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.GroceryApp.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.NovaEncomenda.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.NovaVenda.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.Properties.Resources.resources
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csproj.GenerateResource.Cache
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.exe
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.pdb
+C:\Users\Diogo\documents\visual studio 2015\Projects\GroceryApp\GroceryApp\obj\Debug\GroceryApp.ReceberEncomenda.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\bin\Debug\GroceryApp.exe.config
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.exe
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.pdb
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\bin\Debug\GroceryApp.exe
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\bin\Debug\GroceryApp.pdb
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarFornecedor.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarProduto.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarFuncionario.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AdicionarCliente.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaFornecedores.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaIvas.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaProdutos.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaFuncionarios.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.AreaClientes.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.GroceryApp.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.NovaEncomenda.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.NovaVenda.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.Properties.Resources.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.ReceberEncomenda.resources
+C:\Users\JoaoSantos\Desktop\GroceryApps(last)\GroceryApp\GroceryApp\obj\Debug\GroceryApp.csproj.GenerateResource.Cache
